@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yumiweidemao
 - 👀 I’m interested in circuits, programming and gaming
 - 🌱 I’m currently an electrical engineering major and a computer science minor
-- 💞️ I’m looking to collaborate on all interesting projects
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: shihuac2@illinois.edu, ins @williamccc_
 
 <!---

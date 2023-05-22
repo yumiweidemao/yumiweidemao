@@ -2,7 +2,7 @@
 - 👀 I’m interested in circuits, programming and gaming
 - 🌱 I’m currently an electrical engineering major and a computer science minor
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me: shihuac2@illinois.edu, ins @williamccc_
+- 📫 More: www.shihuacheng.info
 
 <!---
 yumiweidemao/yumiweidemao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
